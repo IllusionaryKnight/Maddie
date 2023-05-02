@@ -1,0 +1,67 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #FFB6C1;
+}
+
+header {
+	text-align: center;
+	font-size: 25px;
+	text-decoration-line: underline;
+}
+
+nav {
+width:1000px;
+margin:0 auto;
+list-style:none;
+}
+nav li {
+float:left;
+}
+nav a {
+display:block;
+text-align:center;
+width:180px; /* fixed width */
+text-decoration:none;
+font-family: georgia;
+color: white;
+font-size: 16px;
+font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    text-align: right;
+}
+
+#Image1 {
+	margin: 100px 0 0 0;
+	float: center;
+	text-align: center;
+}
+
+#Image2 {
+	margin: ;
+	text-align: center;
+}
+
+#CuteMaddie {
+	margin: 50px 0 0 0;
+	float: left;
+}
+
+#CuteCouple {
+	margin: 50px 0 0 0;
+	float: left;
+}
+
+#Reasons {
+	margin: 100px 0 0 0;
+	text-align: center;
+	font-size: 150px;
+}
+
+ul {
+	list-style-type: none;
+}
